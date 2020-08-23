@@ -8,7 +8,6 @@
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
         <url>https://github.com/vreyvrey/jenkins-utils.git</url>
-        <credentialsId>01f5407f-0974-41fb-aba1-b234dbd5b695</credentialsId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
