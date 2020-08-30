@@ -14,9 +14,9 @@ pipelineJob('portal-job') {
                 git {
                     remote {
                         url 'https://github.com/vreyvrey/portal.git'
+                        credentials("portal-creds")
                     }
                     branch 'master'
-                    credentials("portal-creds")
                 }
             }
         }
